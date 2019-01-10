@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
-background-color: #FFF;
+body {
+  background: white;
+  color: #333;
+  font-weight: 500;
+}
 
 h1 {
     padding-bottom: 0.3em;
